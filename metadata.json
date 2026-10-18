@@ -1,0 +1,6 @@
+{
+  "name": "GitHub UI Enhancer",
+  "description": "Import, redesign, and modernize user interfaces from any GitHub repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
