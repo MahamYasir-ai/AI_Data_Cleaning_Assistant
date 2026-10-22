@@ -14,6 +14,12 @@ An AI-assisted data-cleaning application built with Google AI Studio.
 
 ---
 
+<p align="center">
+  <a href="https://ai-data-cleaning-assistant.vercel.app/">
+    <strong>🚀 View Live Demo</strong>
+  </a>
+</p>
+
 ## Overview
 
 AI Data Cleaning Assistant is a project designed to make dataset inspection and data-cleaning workflows easier through an interactive application interface.
