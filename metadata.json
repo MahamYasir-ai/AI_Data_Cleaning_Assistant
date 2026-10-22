@@ -1,6 +1,6 @@
 {
-  "name": "GitHub UI Enhancer",
-  "description": "Import, redesign, and modernize user interfaces from any GitHub repository.",
+  "name": "AI Data Cleaning Assistant",
+  "description": "Inspect, sanitize, and format any CSV or Excel file with duplicate removal, text normalization, and missing value imputation.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
