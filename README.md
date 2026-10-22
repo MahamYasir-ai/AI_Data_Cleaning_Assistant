@@ -85,6 +85,16 @@ I am developing practical AI engineering skills by turning ideas into working ap
 - Improve data-quality summaries and reporting.
 - Document supported file formats and operations.
 
+
+## Related Project
+
+Also explore my separate Python implementation:
+
+[AI Data Cleaning Assistant — Python](https://github.com/MahamYasir-ai/AI_Data_Cleaning_Assistant_Python)
+
+This repository contains the AI Studio version; the linked repository contains the separate Python implementation.
+
+
 ## Author
 
 **Maham Yasir**
