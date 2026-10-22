@@ -20,6 +20,37 @@ AI Data Cleaning Assistant is a project designed to make dataset inspection and 
 
 The project explores how AI-assisted development can help turn a practical data-processing idea into a usable software application.
 
+
+## Project Screenshots
+
+### 1. Application Interface
+![AI Data Cleaning Assistant main interface](assets/screenshots/main-interface.png)
+
+### 2. Dataset Overview
+Explore the uploaded dataset and review its structure.
+
+![Dataset overview](assets/screenshots/data-overview.png)
+
+### 3. Raw Data Quality Report
+Inspect data-quality issues before applying cleaning operations.
+
+![Raw data quality report](assets/screenshots/data-quality-report.png)
+
+### 4. Cleaning Configurations
+Review and configure the available data-cleaning operations.
+
+![Cleaning configurations](assets/screenshots/cleaning-configurations.png)
+
+### 5. Cleaning Results
+Review the dataset after applying the selected cleaning operations.
+
+![Cleaning results](assets/screenshots/cleaning-results.png)
+
+### 6. Export Options
+Download the processed dataset in CSV or Excel format.
+
+![CSV and Excel export options](assets/screenshots/export-options.png)
+
 ## What this project explores
 
 - Dataset upload and inspection workflows.
