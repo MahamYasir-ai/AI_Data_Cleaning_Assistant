@@ -1,6 +1,10 @@
 # AI Data Cleaning Assistant
 
 <div align="center">
+  <img src="assets/banner.svg" alt="AI Data Cleaning Assistant" width="100%">
+</div>
+
+<div align="center">
 
 ### Clean your data. Understand your data. Work smarter.
 
